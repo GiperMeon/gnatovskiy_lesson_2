@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/quadr"
+        android:gravity="center">
+    </item>
+    <item android:drawable="@drawable/quadr_green"
+        android:top="60dp"
+        android:left="60dp">
+    </item>
+
+</layer-list>
